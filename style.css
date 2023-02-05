@@ -18,6 +18,11 @@ li {
 *{
   box-sizing: border-box;
 }
+
+span a:hover{
+  text-decoration: none;
+}
+
 /* ＝＝＝ここからヘッダー関係＝＝＝ */
 
 .header {
